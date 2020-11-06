@@ -1,3 +1,5 @@
 Estoy aprendiendo cómo funciona Git.
 
 Modificando el fichero.
+
+Desde el branch - faltaba informacion esencial.
