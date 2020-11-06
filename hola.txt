@@ -1,0 +1,2 @@
+Estoy aprendiendo cómo funciona Git.
+
