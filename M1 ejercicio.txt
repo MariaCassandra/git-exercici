@@ -1,0 +1,79 @@
+Marja Reponen, curso de FrontEnd con Angular 2021
+
+
+
+
+Plan de acción comercial - Centro de Spa y masajes en Barcelona
+
+
+
+
+
+1 Introducción
+
+
+1.1 Introducción al problema								2
+1.2 Explicación del servicio								2
+1.3 Extra										2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Introducción
+
+1.1 Introducción al problema
+
+La dueña de un centro de spa y masajes ha siempre contado con el continuo flujo de los clientes internacionales que varios hoteles de Barcelona le iban mandando. Nunca había planteado abrir una página web que facilita la reserva de citas a su centro.
+
+Hace un año la dueña estaba forzada de cerrar su centro durante 2 semanas debido a la pandemia y cuando lo abrió el flujo de clientes internacionales había ya agotado. La gente local no conocía su spa y ya no había turistas para disfrutar de los servicios. La dueña está desesperada y necesita que la gente local conozca su centro y que tenga una página facil de utilizar para reservar citas.
+
+
+
+1.2 Explicación del servicio
+
+El servicio consiste de un sitio web donde los usuarios podrán ver la descripción detallada de cada tratamiento y comparar diferentes opciones de tratamientos y paquetes de servicios que el spa ofrece y si desean elegir la persona quien va a realizar el servicio.
+
+Una vez seleccionado el servicio deseado el usuario puede reservar un día exacto o comprar una tarjeta de regalo con fecha abierta. Los usuarios pueden realizar las compras en modo invitado pero les recomendamos crear un perfil a la aplicación web para tener un registro de los tratamientos, las masajistas y además poder disfrutar de posibles descuentos o atenciones especiales reservados para los clientes repetidores. 
+
+
+1.3 Extra
+
+En esta época ya hay mucha oferta de servicios de spas y masajes y es muy importante estar al día y ofrecer una plataforma intuitiva y accesible para reservar servicios.
+
+Aquí hay unos ejemplos de centros de spa que se podría utilizar para inspiración:
+
+1850 Urban Spa: https://www.1850urbanspabarcelona.com/es/
+
+1850 Urban Spa es un pequeño centro urbano muy popular con los ciudadanos de Barcelona. Los precios son más asequibles y el servicio es cercano. La página parece bien construida, los servicios son fáciles de encontrar y se navega sin problemas. Los colores utilizados para la aplicación web son muy sencillos y no dan imagen de un centro lujosa o romántico.
+
+Aire Ancient Baths: https://beaire.com/es/aire-ancient-baths-barcelona 
+
+Aire es una conocida cadena de spas que está presente en varias ciudades de España. Ofrecen una amplia selección de servicios y da la opción de comprar una tarjeta de regalo. El centro es grande, los clientes suelen ser internacionales y los precios son altos.
+
+Los servicios no están muy visibles en la página web y el usuario tiene que hacer scroll para localizar los opciones ofrecidas.
+
+Ninguna de las dos páginas ofrece la comparativa entre los diferentes servicios, sería útil ver cómo los tratamientos se diferencian entre ellos sin tener que saltar de una página a otra. Tampoco ofrecen la opción de elegir una terapeuta exacta que podría ser una opción muy interesante para los usuarios que ya han utilizado los servicios anteriormente y quieren repetir la experiencia con cierta masajista.
+
+
